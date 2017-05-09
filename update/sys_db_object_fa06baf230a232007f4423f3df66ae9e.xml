@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-09 15:00:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>fa06baf230a232007f4423f3df66ae9e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Media</sys_name>
